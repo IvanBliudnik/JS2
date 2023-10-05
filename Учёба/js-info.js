@@ -1,0 +1,5 @@
+alert("Брендан Эйх")
+alert("Синтаксис JavaScript был создан всего за 10 дней на базе синтаксиса Java.")
+alert("В сентябре 1995 года")
+alert("JavaScript - это не Java")
+alert("ECMAScript")
